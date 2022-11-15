@@ -6,7 +6,7 @@
 int main()
 {
     std::cout << "Hello VisualStudio Git!\n";
-    std::cout << "GitHub Clone canged\n";
+    std::cout << "GitHub  Clone canged\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
